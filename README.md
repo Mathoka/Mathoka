@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mathoka, I'm a brazilian guy starting in coding world now; 
 - 👀 I’m interested in frontend developing, mostly html, css and pyhton for now; 
-- 🌱 I’m currently learning html5, css3 and python;
+- 🌱 I’m currently learning html5, looking forward to start practicing css3 and python also;
 - 💞️ I’m looking to collaborate on basics website developing;
 - 📫 How to reach me ... you can contact me on my instagram/twitter account: @mathzila or my e-mail m4theusxavier@outlook.com
 
